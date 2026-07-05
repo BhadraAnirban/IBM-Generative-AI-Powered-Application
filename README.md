@@ -14,6 +14,7 @@ git branch -M main
 git push -u origin main
 
 
+
 1. Gradio
 Gradio is a Python library used to quickly create web-based user interfaces for Machine Learning and AI applications. It allows users to interact with models through a browser without writing HTML, CSS, or JavaScript.
 
@@ -134,3 +135,5 @@ source my_env/bin/activate # activate my_env
 # installing required libraries in my_env
 pip install langchain==0.1.11 gradio==5.23.2 transformers==4.38.2 bs4==0.0.2 requests==2.31.0 torch==2.2.1
 
+
+git remote add origin https://github.com/BhadraAnirban/IBM-Generative-AI-Powered-Application.git
